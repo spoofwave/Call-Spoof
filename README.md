@@ -4,7 +4,7 @@
 
 ## Overview
 
-With the `spoofcall.py` script, you can easily change the caller ID used in your SpoofWave account. This is useful for updating the caller ID for outgoing calls. The script uses the [SpoofWave API](https://spoofwave.com/api/call) to perform this operation.
+With the `spoofcall.py` script, you can easily change the caller ID used in your SpoofWave account. This is useful for updating the caller ID for outgoing calls. The script uses the [SpoofWave API](https://spoofwave.com/docs) to perform this operation.
 
 ## Requirements
 
