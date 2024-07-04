@@ -28,8 +28,8 @@ Follow these steps to set up and use the `spoofcall.py` script:
    ```bash
    pip install requests
    ```
-   ## Usage
-   To run the script, use the following command format:
+## Usage
+To run the script, use the following command format:
 
 ```bash
 python3 spoofcall.py YOUR_USERNAME CALLER_ID
