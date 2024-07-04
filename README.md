@@ -19,7 +19,7 @@ Follow these steps to set up and use the `spoofcall.py` script:
 
 1. **Download or Clone the Repository**
 
-   Get the `spoofcall.py` script from the [repository](https://github.com/your-repo/spoofcall) or download the file directly.
+   Clone the repository or download the `spoofcall.py` script.
 
 2. **Install the Required Library**
 
